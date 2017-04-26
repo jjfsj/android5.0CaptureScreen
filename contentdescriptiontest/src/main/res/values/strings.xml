@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentDescriptionTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="contentDescription">please try to touch this plus button again</string>
+</resources>

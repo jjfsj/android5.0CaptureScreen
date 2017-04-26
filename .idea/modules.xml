@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaptureScreen.iml" filepath="$PROJECT_DIR$/CaptureScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessibilitytest/accessibilitytest.iml" filepath="$PROJECT_DIR$/accessibilitytest/accessibilitytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidcrazy/androidcrazy.iml" filepath="$PROJECT_DIR$/androidcrazy/androidcrazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentdescriptiontest/contentdescriptiontest.iml" filepath="$PROJECT_DIR$/contentdescriptiontest/contentdescriptiontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencetest/preferencetest.iml" filepath="$PROJECT_DIR$/preferencetest/preferencetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasklistaccessibility/tasklistaccessibility.iml" filepath="$PROJECT_DIR$/tasklistaccessibility/tasklistaccessibility.iml" />
+    </modules>
+  </component>
+</project>
+

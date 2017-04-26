@@ -1,0 +1,1 @@
+include ':app', ':preferencetest', ':fragmenttest', ':accessibilitytest', ':tasklistaccessibility', ':contentdescriptiontest', ':notification', ':androidcrazy'

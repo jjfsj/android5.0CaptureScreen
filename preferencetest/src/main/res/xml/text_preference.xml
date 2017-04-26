@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="preference0"
+        android:summary="简易说明preference0"
+        android:title="preference" >
+    </Preference>
+
+    <Preference
+        android:key="preference1"
+        android:summary="简易说明preference1"
+        android:title="preference1" >
+    </Preference>
+
+    <PreferenceCategory
+        android:key="settings_category"
+        android:title="网络设置">
+        <PreferenceScreen
+            android:key="current_input_method"
+            android:title="Wlan"/>
+
+        <PreferenceScreen
+            android:key="current_input_method1"
+            android:title="移动网络"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="settings_category1"
+        android:title="语言输入法设置">
+        <PreferenceScreen
+            android:key="current_input_method3"
+            android:title="语言设置"/>
+
+        <PreferenceScreen
+            android:key="current_input_method4"
+            android:title="输入法设置"/>
+
+        <PreferenceScreen
+            android:key="Switch1"
+            android:title="按钮开关">
+            <SwitchPreference
+                android:key="auto_brightness"
+                android:title="切换按钮"
+                android:summary="点击选择按钮状态"
+                android:persistent="false" />
+            <ListPreference
+                android:key="screen_timeout"
+                android:title="单选列表框"
+                android:persistent="false"
+                android:entries="@array/screen_timeout_entries"
+                android:entryValues="@array/screen_timeout_values"/>
+            <EditTextPreference
+                android:key="editText"
+                android:title="输入框"
+                android:summary="请输入内容"/>
+
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
